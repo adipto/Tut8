@@ -1,5 +1,5 @@
 #!/bin/bash
-#Comment
+#D1: Added initial comment
 SRC="$1"
 DEST="$2"
 
